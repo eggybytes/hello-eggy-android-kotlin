@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">hello-eggy-android-kotlin</string>
+    <string name="question_one">What, added to 7, makes 10?</string>
+    <string name="left_answer_one">3</string>
+    <string name="right_answer_one">4</string>
+    <string name="question_two">What, added to 6, makes 10?</string>
+    <string name="left_answer_two">4</string>
+    <string name="right_answer_two">3</string>
+    <string name="question_three">What, added to 5, makes 10?</string>
+    <string name="left_answer_three">6</string>
+    <string name="right_answer_three">5</string>
+    <string name="question_four">What, added to 4, makes 10?</string>
+    <string name="left_answer_four">6</string>
+    <string name="right_answer_four">7</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="default_notification_channel_id">Channel ID</string>
+    <string name="default_notification_channel_name">Channel Name</string>
+    <string name="default_notification_channel_description">Channel Description</string>
+</resources>
